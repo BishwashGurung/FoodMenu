@@ -1,0 +1,5 @@
+# Ignore compiled binaries and packages
+*.sln
+Menu/bin/
+Menu/obj/
+Menu/appsettings.json
