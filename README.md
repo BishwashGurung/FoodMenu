@@ -1,0 +1,1 @@
+This a simple food menu web app created using ASP.NET core framework with model-view-controller template. This project uses C# language and for Database MySQL is used.
